@@ -1,0 +1,22 @@
+{
+  "name": "flav-bot",
+  "version": "1.0.0",
+  "description": "A simple GroupMe spam bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tkreind/flav-bot.git"
+  },
+  "author": "Tristan Kreindler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkreind/flav-bot/issues"
+  },
+  "homepage": "https://github.com/tkreind/flav-bot#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
